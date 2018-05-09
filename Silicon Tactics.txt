@@ -1,0 +1,37 @@
+Silicon Tactics(Working Title)
+
+A game where players take on the roles of sentient AIs and compete over resources.
+
+Each player starts with a basic factory unit and is able to design some basic drones.
+Players are then presented with one or several locations containing desired resources(Rez), and can send their drones to fight over said sites.
+
+>>>Gameplay
+For a campaign each player fills out their sheets and constructs their first drones. One or more Rez sites are located, and then players send a number of their drones to fight for control. Rolls are determined with D6s.
+For a one off skirmish, players can decide on an appropriate amount of Rez to spend on drones.
+
+>>Combat
+Combat takes place on a hexagonal grid between two or more players. Players roll to determine who deploys first. After deployment play procedes in chunks. During each chunk the players take turns operating their drones. The current player designates a unit they wish use. They may then move the unit, attack with it, or preform some other action. After that units actions have resolved, the current player marks the unit and can't use it for the rest of the chunk, the turn then passes to the next player who in turn operates a unit. Once all of the units have performed their actions the chunk ends and a new one begins, refreshing all units actions.
+Combat continues until only one players forces remain.
+
+>Combat Actions
+During combat the active unit choose from the actions present in the following list
+-Move(Moves a number of spaces up to the alloted amount of movement units(MU)for that unit)
+-Turn(Turns on the spot, each turn costs 0.5 MU)
+-Charge(Can move up to 1.5x the units MU rounded down, attacks take penalty)
+-Fire Weapons(Fires any number of weapons the active unit can fire)
+-Melee Attack(Unit makes a melee attack against adjacent drone)
+
+
+
+
+
+
+
+
+>>Drone Construction
+Players use their available Rez to construct drones using components from the parts lists. Each drone starts with a chassis, which determines the components that can be installed.
+
+Chassis
+-General Purpose Walker(Cheap, has a variety of options, but doesn't allow great specialization)
+-Roller(Similar to walker except faster over flat terrain and limited movement in rough terrain)
+
