@@ -21,17 +21,20 @@ During combat the active unit choose from the actions present in the following l
 -Fire Weapons(Fires any number of weapons the active unit can fire)
 -Melee Attack(Unit makes a melee attack against adjacent drone)
 
-
-
-
-
-
-
-
 >>Drone Construction
-Players use their available Rez to construct drones using components from the parts lists. Each drone starts with a chassis, which determines the components that can be installed.
+Players use their available Rez to construct drones using components from the parts lists. Each drone starts with a chassis and a movement system.
 
 Chassis
--General Purpose Walker(Cheap, has a variety of options, but doesn't allow great specialization)
--Roller(Similar to walker except faster over flat terrain and limited movement in rough terrain)
+-General Purpose(Cheap, 1 weapon, 1 armor)
+-Gun Platform(3 weapon, 0 armor)
+-Tank(1 Weapon, 2 armor)
 
+Movement Systems
+-Walker(5 MU, can move up steep inclines)
+-Wheeled(8 MU, moving over rough terrain costs 4 MU)
+-Tracks(6 MU)
+
+Weapons
+-Cannon
+-Laser
+-Rocket
