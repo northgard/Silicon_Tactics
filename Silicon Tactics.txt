@@ -22,7 +22,7 @@ During combat the active unit choose from the actions present in the following l
 -Melee Attack(Unit makes a melee attack against adjacent drone)
 A unit may continues acting until it has used up all its movement points and attacks
 >How attacks work
-When a unit makes an attack against a target rolls the specified number of D6s for each weapon used. After hits are counted, roll a D6 for each hit and if the roll is higher than or equal to the armor value, the defender rolls 2D6 on the damage table.
+When a unit makes an attack against a target rolls the specified number of D6s for each weapon used. After hits are counted, roll 2D6 for each hit and if the roll is higher than or equal to the armor value, the defender rolls 2D6 on the damage table.
 
 >>Drone Construction
 Players use their available Rez to construct drones using components from the parts lists. Each drone starts with a chassis and a movement system.
@@ -41,3 +41,5 @@ Weapons
 -Cannon
 -Laser
 -Rocket
+
+Armor(7 is middle ground for armor)
